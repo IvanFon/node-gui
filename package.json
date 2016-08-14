@@ -1,6 +1,6 @@
 {
   "name": "node-gui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js GUI library.",
   "main": "index.js",
   "scripts": {
